@@ -36,8 +36,8 @@ modules:
       - -DMultiMC_LAYOUT=lin-system
     sources:
       - type: git
-        url: https://github.com/MultiMC/MultiMC5
-        commit: 3ad9ea507e945709b01a5fcc51a60f7c45ad4c38
+        url: https://github.com/AfoninZ/MultiMC5-Cracked.git
+        branch: "develop"
       - type: patch
         path: java-utils.patch
       - type: patch
